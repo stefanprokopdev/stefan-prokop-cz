@@ -13,6 +13,7 @@
   * Author of <a href="https://kniha-vyzev.cz">Kniha výzev</a> - the book full of challenges
   * Founder of <a href="https://hodnoceni-mist.cz">Hodnocení míst</a> - the web app for creating reviews for streets, cities, flats and so on
 - 🥊 🏋️ 🌴
+- Contact me on <a href="mailto: sprokop1010@seznam.cz">sprokop1010@seznam.cz</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=stefan-prokop-cz" alt="stefan-prokop-cz" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stefan-prokop-cz&show_icons=true" alt="stefan-prokop-cz" /></p>
