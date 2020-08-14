@@ -8,7 +8,10 @@
 # Štefan Prokop
 
 - 🇨🇿 Prague, Czechia
-- Backend developer (Node.js, TypeScript)
+- Backend developer at <a href="https://github.com/AckeeCZ">AckeeCZ</a>
+- **Projects**
+  * Author of <a href="https://kniha-vyzev.cz">Kniha výzev</a> - the book full of challenges
+  * Founder of <a href="https://hodnoceni-mist.cz">Hodnocení míst</a> - the web app for creating reviews for streets, cities, flats and so on
 - 🥊 🏋️ 🌴
 
 <p><img src="https://komarev.com/ghpvc/?username=stefan-prokop-cz" alt="stefan-prokop-cz" /></p>
