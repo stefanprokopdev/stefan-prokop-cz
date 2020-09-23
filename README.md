@@ -5,7 +5,7 @@
   <a href="https://stackshare.io/stefan-prokop-cz"><img src="https://img.shields.io/badge/stackshare-stefan--prokop--cz-blue" alt="Stefan Prokop stackshare" /></a>
 </p>
 
-# Štefan Prokop
+## Štefan Prokop
 
 - 🇨🇿 Prague, Czechia
 - Backend developer at <a href="https://github.com/AckeeCZ">AckeeCZ</a>
