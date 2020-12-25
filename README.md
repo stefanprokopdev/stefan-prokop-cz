@@ -13,7 +13,7 @@
 - **Projects**
   * Author of <a href="https://kniha-vyzev.cz">Kniha výzev</a> - the book full of challenges
   * <a href="https://stefan-prokop-cz.medium.com/my-projects-place-ratings-983335396d3b">Place ratings</a> - the web app for creating reviews of streets, cities, flats, etc. that helps people to find the best place where to live or buy / rent a house / flat
-  * <a href="https://which-movie-to-watch.backenders.eu">Which movie to watch?</a> - the web app that recommend you movies you can watch (you can also try <a href="https://which-series-to-watch.backenders.eu">Which series to watch?</a>)
+  * <a href="https://stefan-prokop-cz.medium.com/my-projects-which-movie-to-watch-b6c767300150">Which movie to watch?</a> - the web app that recommend you movies you can watch (you can also try <a href="https://which-series-to-watch.backenders.eu">Which series to watch?</a>)
 - 🥊 🏋️ 🌴
 - Contact me on <a href="mailto: sprokop1010@seznam.cz">sprokop1010@seznam.cz</a>
 
