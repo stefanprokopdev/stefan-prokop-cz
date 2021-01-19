@@ -15,7 +15,7 @@
   * <a href="https://stefan-prokop-cz.medium.com/my-projects-place-ratings-983335396d3b">Place ratings</a> - the web app for creating reviews of streets, cities, flats, etc. that helps people to find the best place where to live or buy / rent a house / flat
   * <a href="https://stefan-prokop-cz.medium.com/my-projects-which-movie-to-watch-b6c767300150">Which movie to watch?</a> - the web app that recommend you movies you can watch (you can also try <a href="https://which-series-to-watch.backenders.eu">Which series to watch?</a>)
 - 🥊 🏋️ 🌴
-- Contact me on <a href="mailto: sprokop1010@seznam.cz">sprokop1010@seznam.cz</a>
+- Contact me on <a href="mailto: prokop.stefan@gmail.com">prokop.stefan@gmail.com</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=stefan-prokop-cz" alt="stefan-prokop-cz" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stefan-prokop-cz&show_icons=true" alt="stefan-prokop-cz" /></p>
