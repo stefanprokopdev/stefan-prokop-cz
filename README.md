@@ -13,5 +13,6 @@
 - **Projects**
   * Author of <a href="https://kniha-vyzev.cz">Kniha výzev</a> - the book full of challenges
   * <a href="https://stefan-prokop-cz.medium.com/my-projects-place-ratings-983335396d3b">Place ratings</a> - the web app for creating reviews of streets, cities, flats, etc. that helps people to find the best place where to live or buy / rent a house / flat
+  * <a href="https://nigel-onboarding.com">Nigel onboarding chatbot</a> - automate your employee onboarding process
 - 🥊 🏋️ 🌴
 - Contact me on <a href="mailto: prokop.stefan@gmail.com">prokop.stefan@gmail.com</a>
